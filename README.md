@@ -15,3 +15,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+### ordered list
+1. CSE
+2. ECE
+3. MECH
+4. EEE
